@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="libarchive" targetName="ContinuousCoverage" />
+      <config projectName="libarchive" targetName="bsdcpio_test" />
+      <config projectName="libarchive" targetName="run_bsdcat_test" />
+      <config projectName="libarchive" targetName="bsdcat" />
+      <config projectName="libarchive" targetName="ContinuousSubmit" />
+      <config projectName="libarchive" targetName="bsdtar" />
+      <config projectName="libarchive" targetName="ContinuousTest" />
+      <config projectName="libarchive" targetName="ExperimentalSubmit" />
+      <config projectName="libarchive" targetName="NightlyBuild" />
+      <config projectName="libarchive" targetName="ContinuousConfigure" />
+      <config projectName="libarchive" targetName="NightlyCoverage" />
+      <config projectName="libarchive" targetName="run_bsdunzip_test" />
+      <config projectName="libarchive" targetName="NightlyUpdate" />
+      <config projectName="libarchive" targetName="NightlySubmit" />
+      <config projectName="libarchive" targetName="ExperimentalConfigure" />
+      <config projectName="libarchive" targetName="NightlyTest" />
+      <config projectName="libarchive" targetName="ContinuousBuild" />
+      <config projectName="libarchive" targetName="NightlyMemoryCheck" />
+      <config projectName="libarchive" targetName="libarchive_test" />
+      <config projectName="libarchive" targetName="Experimental" />
+      <config projectName="libarchive" targetName="archive_static" />
+      <config projectName="libarchive" targetName="ExperimentalBuild" />
+      <config projectName="libarchive" targetName="ContinuousUpdate" />
+      <config projectName="libarchive" targetName="bsdcat_test" />
+      <config projectName="libarchive" targetName="ExperimentalMemCheck" />
+      <config projectName="libarchive" targetName="bsdcpio" />
+      <config projectName="libarchive" targetName="NightlyMemCheck" />
+      <config projectName="libarchive" targetName="bsdunzip" />
+      <config projectName="libarchive" targetName="Nightly" />
+      <config projectName="libarchive" targetName="ContinuousMemCheck" />
+      <config projectName="libarchive" targetName="run_all_tests" />
+      <config projectName="libarchive" targetName="run_libarchive_test" />
+      <config projectName="libarchive" targetName="NightlyStart" />
+      <config projectName="libarchive" targetName="run_bsdtar_test" />
+      <config projectName="libarchive" targetName="NightlyConfigure" />
+      <config projectName="libarchive" targetName="ExperimentalTest" />
+      <config projectName="libarchive" targetName="ContinuousStart" />
+      <config projectName="libarchive" targetName="bsdtar_test" />
+      <config projectName="libarchive" targetName="ExperimentalCoverage" />
+      <config projectName="libarchive" targetName="run_bsdcpio_test" />
+      <config projectName="libarchive" targetName="ExperimentalUpdate" />
+      <config projectName="libarchive" targetName="archive" />
+      <config projectName="libarchive" targetName="Continuous" />
+      <config projectName="libarchive" targetName="ExperimentalStart" />
+      <config projectName="libarchive" targetName="bsdunzip_test" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc4201fc-a522-4582-a6ea-adce25b57ab0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="2e5iwdZkgSECmxP75jeKuEWUBI1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+  </component>
+  <component name="RunManager" selected="CMake Application.ContinuousBuild">
+    <configuration name="Continuous" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="Continuous" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ContinuousBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ContinuousBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ContinuousConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ContinuousCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ContinuousMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ContinuousStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ContinuousStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ContinuousSubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ContinuousTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ContinuousTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ContinuousUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experimental" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="Experimental" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ExperimentalBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ExperimentalConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ExperimentalCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ExperimentalMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ExperimentalStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ExperimentalStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalSubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ExperimentalSubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ExperimentalTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ExperimentalTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="ExperimentalUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nightly" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="Nightly" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyBuild" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="NightlyBuild" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="NightlyBuild">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyConfigure" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="NightlyConfigure" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="NightlyConfigure">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyCoverage" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="NightlyCoverage" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="NightlyCoverage">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="NightlyMemCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemoryCheck" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="NightlyMemoryCheck">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyStart" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="NightlyStart" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="NightlyStart">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlySubmit" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="NightlySubmit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="NightlySubmit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyTest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="NightlyTest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="NightlyTest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyUpdate" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="NightlyUpdate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="NightlyUpdate">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="archive" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="archive" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="archive_static" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="archive_static" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsdcat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="bsdcat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="bsdcat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsdcat_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="bsdcat_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="bsdcat_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsdcpio" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="bsdcpio" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="bsdcpio">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsdcpio_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="bsdcpio_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="bsdcpio_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsdtar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="bsdtar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="bsdtar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsdtar_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="bsdtar_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="bsdtar_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsdunzip" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="bsdunzip" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="bsdunzip">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bsdunzip_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="bsdunzip_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="bsdunzip_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="libarchive_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="libarchive_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="libarchive" RUN_TARGET_NAME="libarchive_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_all_tests" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="run_all_tests" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_bsdcat_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="run_bsdcat_test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_bsdcpio_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="run_bsdcpio_test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_bsdtar_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="run_bsdtar_test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_bsdunzip_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="run_bsdunzip_test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run_libarchive_test" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="libarchive" TARGET_NAME="run_libarchive_test" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.ContinuousBuild" />
+      <item itemvalue="CMake Application.ContinuousConfigure" />
+      <item itemvalue="CMake Application.ContinuousCoverage" />
+      <item itemvalue="CMake Application.ContinuousMemCheck" />
+      <item itemvalue="CMake Application.ContinuousStart" />
+      <item itemvalue="CMake Application.ContinuousSubmit" />
+      <item itemvalue="CMake Application.ContinuousTest" />
+      <item itemvalue="CMake Application.ContinuousUpdate" />
+      <item itemvalue="CMake Application.Continuous" />
+      <item itemvalue="CMake Application.ExperimentalBuild" />
+      <item itemvalue="CMake Application.ExperimentalConfigure" />
+      <item itemvalue="CMake Application.ExperimentalCoverage" />
+      <item itemvalue="CMake Application.ExperimentalMemCheck" />
+      <item itemvalue="CMake Application.ExperimentalStart" />
+      <item itemvalue="CMake Application.ExperimentalSubmit" />
+      <item itemvalue="CMake Application.ExperimentalTest" />
+      <item itemvalue="CMake Application.ExperimentalUpdate" />
+      <item itemvalue="CMake Application.Experimental" />
+      <item itemvalue="CMake Application.NightlyBuild" />
+      <item itemvalue="CMake Application.NightlyConfigure" />
+      <item itemvalue="CMake Application.NightlyCoverage" />
+      <item itemvalue="CMake Application.NightlyMemCheck" />
+      <item itemvalue="CMake Application.NightlyMemoryCheck" />
+      <item itemvalue="CMake Application.NightlyStart" />
+      <item itemvalue="CMake Application.NightlySubmit" />
+      <item itemvalue="CMake Application.NightlyTest" />
+      <item itemvalue="CMake Application.NightlyUpdate" />
+      <item itemvalue="CMake Application.Nightly" />
+      <item itemvalue="CMake Application.archive" />
+      <item itemvalue="CMake Application.archive_static" />
+      <item itemvalue="CMake Application.bsdcat" />
+      <item itemvalue="CMake Application.bsdcat_test" />
+      <item itemvalue="CMake Application.bsdcpio" />
+      <item itemvalue="CMake Application.bsdcpio_test" />
+      <item itemvalue="CMake Application.bsdtar" />
+      <item itemvalue="CMake Application.bsdtar_test" />
+      <item itemvalue="CMake Application.bsdunzip" />
+      <item itemvalue="CMake Application.bsdunzip_test" />
+      <item itemvalue="CMake Application.libarchive_test" />
+      <item itemvalue="CMake Application.run_all_tests" />
+      <item itemvalue="CMake Application.run_bsdcat_test" />
+      <item itemvalue="CMake Application.run_bsdcpio_test" />
+      <item itemvalue="CMake Application.run_bsdtar_test" />
+      <item itemvalue="CMake Application.run_bsdunzip_test" />
+      <item itemvalue="CMake Application.run_libarchive_test" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc4201fc-a522-4582-a6ea-adce25b57ab0" name="Default Changelist" comment="" />
+      <created>1711201079297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711201079297</updated>
+      <workItem from="1711201080643" duration="177000" />
+      <workItem from="1711201272560" duration="888000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
